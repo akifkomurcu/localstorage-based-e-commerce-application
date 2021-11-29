@@ -1,5 +1,5 @@
 
-var arr_obj = [{ "pername": "admin", "perdata": "" }]; //manuel data
+var arr_obj = [{ "pername": "admin", "perdata": "admin" }]; //manuel data
 var persondata = {
 
   setdata: function (key, val) {
